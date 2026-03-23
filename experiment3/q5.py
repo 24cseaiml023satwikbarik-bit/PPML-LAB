@@ -1,0 +1,5 @@
+a=float(input("enter 1st sub:"))
+b=float(input("enter 2nd sub:"))
+e=float(input("enter 3rd sub:"))
+c=float(input("enter 4th sub:"))
+d=float(input("enter 5th sub:"))
